@@ -1,0 +1,53 @@
+{
+  "home": {
+    "title": "Landing Pages that Convert",
+    "typewriterText1": "Your Vision!",
+    "typewriterText2": "Our Creation!",
+    "text": "Welcome to your next big achievement! Our landing page is designed to connect you directly to the solutions your business needs. Discover how we can transform your project with an engaging design, optimized for conversions and tailored to achieve your goals. Take advantage of our exclusive offer and see how a well-designed landing page can make a difference. Contact us now and take the first step towards maximizing your success",
+    "btnContact": "Contact us"
+  },
+  "about": {
+    "title": "Create personalized landing pages that convert!",
+    "text": "Whether for marketing campaigns, product launches or capturing leads, a well-built landing page makes all the difference. With our solution, you can create high-performance pages that are tailored to your audience, hassle-free",
+    "items": {
+      "responsiveTitle": "Responsive Design",
+      "responsiveText": "Our landing pages are optimized for any device, ensuring a perfect experience on desktop and mobile",
+      "conversionTitle": "Focus on Conversion",
+      "conversionText": "Each page is designed with proven conversion strategies, with clear and compelling calls to action",
+      "analysisTitle": "Market Analysis",
+      "analysisText": "Building pages aligned with your audience's needs and pain points",
+      "seoTitle": "Integrated SEO",
+      "seoText": "Search engine optimized landing pages, helping to increase your online visibility"
+    }
+  },
+  "services": {
+    "title": "Increase Your Sales with Tailored Solutions!",
+    "subtitle": "We generate landing pages focused on the needs of your audience",
+    "text": "A customized solution is worth more than any generic template. We analyze your market and create specific pages for your target audience, increasing the chances of conversion and improving the results of your campaigns",
+    "domainTitle": "Custom Domain",
+    "domainText": "A custom domain name boosts credibility and makes it easier to access your landing page. Our team can configure and integrate your domain to ensure a professional and effective online presence",
+    "suportTitle": "Humanized Support",
+    "suportText": "We offer expert support to help you continually optimize your landing pages",
+    "sslTitle": "SSL Certificate",
+    "sslText1": "All landing pages we create for you come with an SSL Certificate included, ensuring that your visitors can browse safely and confidently",
+    "sslText2": "With SSL integrated into your landing pages, you ensure a safe and reliable experience for all visitors, which can directly impact the success of your campaigns",
+    "question": "Why trust landing page creation developed by experts?",
+    "answare": "Trusting experts to create landing pages ensures that your page is designed to convert, with an attractive design, fast loading and secure with an SSL Certificate. Our team takes care of all the technical work, delivering a customized solution that reflects your brand and maximizes your results, without you having to worry about implementation details or errors"
+  },
+  "contact": {
+    "titleForm": "Contact",
+    "labelName": "Name",
+    "labelEmail": "Email",
+    "labelPhone": "Phone",
+    "labelCompany": "Company",
+    "labelMessage": "Message",
+    "btnSendMessage": "Send"
+  },
+  "footer": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "reservedText": "All rights reserved"
+  }
+}

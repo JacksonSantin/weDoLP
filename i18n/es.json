@@ -1,0 +1,53 @@
+{
+  "home": {
+    "title": "Páginas de destino que convierten",
+    "typewriterText1": "¡Tu visión!",
+    "typewriterText2": "¡Nuestra creación!",
+    "text": "¡Bienvenido a tu próximo gran logro! Nuestra página de inicio fue diseñada para conectarlo directamente con las soluciones que su empresa necesita. Descubra cómo podemos transformar su proyecto con un diseño atractivo, optimizado para las conversiones y personalizado para lograr sus objetivos. Aprovecha nuestra oferta exclusiva y comprueba cómo una página bien diseñada puede marcar la diferencia. Póngase en contacto ahora y dé el primer paso para maximizar su éxito",
+    "btnContact": "Contáctanos"
+  },
+  "about": {
+    "title": "¡Crea páginas de destino personalizadas que conviertan!",
+    "text": "Ya sea para campañas de marketing, lanzamientos de productos o captación de clientes potenciales, una página de destino bien diseñada marca la diferencia. Con nuestra solución podrás generar páginas de alto rendimiento adaptadas a tu audiencia, sin complicaciones",
+    "items": {
+      "responsiveTitle": "Diseño Responsivo",
+      "responsiveText": "Nuestras páginas de destino están optimizadas para cualquier dispositivo, lo que garantiza una experiencia perfecta en computadoras de escritorio y dispositivos móviles",
+      "conversionTitle": "Centrarse en la Conversión",
+      "conversionText": "Cada página está diseñada con estrategias de conversión comprobadas con llamados a la acción claros y convincentes",
+      "analysisTitle": "Análisis de Mercado",
+      "analysisText": "Creación de páginas alineadas con las necesidades y los puntos débiles de su audiencia",
+      "seoTitle": "SEO Integrado",
+      "seoText": "Páginas de destino optimizadas para motores de búsqueda, que ayudan a aumentar su visibilidad en línea"
+    }
+  },
+  "services": {
+    "title": "¡Aumente sus ventas con soluciones a medida!",
+    "subtitle": "Generamos landing pages enfocadas a las necesidades de tu audiencia",
+    "text": "Una solución personalizada vale más que cualquier plantilla genérica. Analizamos tu mercado y creamos páginas específicas para tu público objetivo, aumentando las posibilidades de conversión y mejorando los resultados de tus campañas",
+    "domainTitle": "Dominio Personalizado",
+    "domainText": "Tu propio dominio refuerza la credibilidad y facilita el acceso a tu página de destino. Nuestro equipo puede configurar e integrar el dominio para garantizar una presencia en línea profesional y efectiva",
+    "suportTitle": "Soporte Humanizado",
+    "suportText": "Ofrecemos soporte experto para ayudarle a optimizar continuamente sus páginas de destino",
+    "sslTitle": "Certificado SSL",
+    "sslText1": "Todas las páginas de destino que creamos para usted vienen con un certificado SSL incluido, lo que garantiza que sus visitantes puedan navegar de forma segura y confiada",
+    "sslText2": "Con SSL integrado en sus páginas de destino, garantiza una experiencia segura y confiable para todos los visitantes, lo que puede reflejarse directamente en el éxito de sus campañas",
+    "question": "¿Por qué confiar en la creación de landing pages desarrolladas por expertos?",
+    "answare": "Confiar en expertos en la creación de landing pages garantiza que tu página esté diseñada para la conversión, con un diseño atractivo, carga rápida y seguridad con Certificado SSL. Nuestro equipo se encarga de todo el trabajo técnico, entregando una solución personalizada que refleje su marca y maximice sus resultados, sin que usted tenga que preocuparse por detalles o errores de implementación"
+  },
+  "contact": {
+    "titleForm": "Contacto",
+    "labelName": "Nombre",
+    "labelEmail": "Correo Electrónico",
+    "labelPhone": "Teléfono",
+    "labelCompany": "Empresa",
+    "labelMessage": "Mensaje",
+    "btnSendMessage": "Enviar Mensaje"
+  },
+  "footer": {
+    "home": "Home",
+    "about": "Acerca De",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "reservedText": "Reservados todos los derechos"
+  }
+}
