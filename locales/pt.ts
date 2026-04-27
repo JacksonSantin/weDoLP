@@ -1,0 +1,53 @@
+export default {
+  home: {
+    title: "Landing Pages que Convertem",
+    typewriterText1: "Sua Visão!",
+    typewriterText2: "Nossa Criação!",
+    text: "Bem-vindo à sua próxima grande conquista! Nossa landing page foi projetada para conectar você diretamente às soluções que sua empresa precisa. Descubra como podemos transformar seu projeto com um design envolvente, otimizado para conversões e feito sob medida para alcançar seus objetivos. Aproveite nossa oferta exclusiva e veja como uma página bem elaborada pode fazer a diferença. Entre em contato agora e dê o primeiro passo para maximizar seu sucesso",
+    btnContact: "Entre em contato"
+  },
+  about: {
+    title: "Crie landing pages personalizadas que convertem!",
+    text: "Seja para campanhas de marketing, lançamentos de produtos ou capturar leads, uma landing page bem construída faz toda a diferença. Com a nossa solução, você pode gerar páginas de alta performance e adaptadas ao seu público, sem complicações",
+    items: {
+      responsiveTitle: "Design Responsivo",
+      responsiveText: "Nossas landing pages são otimizadas para qualquer dispositivo, garantindo uma experiência perfeita no desktop e mobile",
+      conversionTitle: "Foco na Conversão",
+      conversionText: "Cada página é projetada com estratégias de conversão comprovadas, com chamadas para ação claras e atraentes",
+      analysisTitle: "Análise de Mercado",
+      analysisText: "Construção de páginas alinhadas com as necessidades e dores do seu público",
+      seoTitle: "SEO Integrado",
+      seoText: "Landing pages otimizadas para motores de busca, ajudando a aumentar sua visibilidade online"
+    }
+  },
+  services: {
+    title: "Aumente Suas Vendas com Soluções Sob Medida!",
+    subtitle: "Geramos landing pages focadas nas necessidades do seu público",
+    text: "Uma solução personalizada vale mais do que qualquer template genérico. Nós analisamos seu mercado e criamos páginas específicas para seu público-alvo, aumentando as chances de conversão e melhorando os resultados de suas campanhas",
+    domainTitle: "Domínio Personalizado",
+    domainText: "Um domínio próprio reforça a credibilidade e facilita o acesso à sua landing page. Nossa equipe pode configurar e integrar o domínio para garantir uma presença online profissional e eficaz",
+    suportTitle: "Suporte Humanizado",
+    suportText: "Oferecemos suporte especializado para ajudá-lo a otimizar suas landing pages de forma contínua",
+    sslTitle: "Certificado SSL",
+    sslText1: "Todas as landing pages que criamos para você vêm com Certificado SSL incluso, garantindo que seus visitantes possam navegar com segurança e confiança",
+    sslText2: "Com o SSL integrado às suas landing pages, você garante uma experiência segura e confiável para todos os visitantes, o que pode refletir diretamente no sucesso de suas campanhas",
+    question: "Por que confiar na criação de landing pages desenvolvidas por especialistas?",
+    answare: "Confiar em especialistas na criação de landing pages garante que sua página seja projetada para conversão, com um design atraente, carregamento rápido e segurança com Certificado SSL. Nossa equipe cuida de todo o trabalho técnico, entregando uma solução personalizada que reflete sua marca e maximiza seus resultados, sem que você precise se preocupar com detalhes ou erros de implementação"
+  },
+  contact: {
+    titleForm: "Contato",
+    labelName: "Nome",
+    labelEmail: "E-mail",
+    labelPhone: "Telefone",
+    labelCompany: "Empresa",
+    labelMessage: "Mensagem",
+    btnSendMessage: "Enviar"
+  },
+  footer: {
+    home: "Home",
+    about: "Sobre",
+    services: "Serviços",
+    contact: "Contato",
+    reservedText: "Todos os direitos reservados"
+  }
+}
